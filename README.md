@@ -52,7 +52,7 @@
 - 全流程使用 Trae + DeepSeek 完成架构设计、编码实现与配套文档
 
 **技术栈**：Java 8+ · Maven 多模块 · Gson · Servlet 3.0+ · Spring Boot Starter
-🔗 https://gitee.com/FoamValue/upload-file
+🔗 [upload-file](https://github.com/FoamValue/upload-file)
 
 ### 🗂 PathFinder — Java 开源文件管理系统
 > 面向单组织私有部署的文件管理系统，围绕「文件放哪、谁能看、如何找」三大问题提供统一、安全、可审计的内容文件管理能力，以 **MIT 协议**开源。
@@ -64,7 +64,7 @@
 - **容器化交付**：nginx + 后端 + Redis + MySQL 多容器编排，配套 PRD / TSDD / PLAN / TESTCASES / REVIEW 全套工程文档
 
 **技术栈**：React 18 · TypeScript · Ant Design 5 · Vite / JDK 26 · Spring Boot 4.1 · Spring Security · Redis 9 · MySQL 8 / Docker Compose · nginx
-🔗 https://gitee.com/FoamValue/path-finder
+🔗 [path-finder](https://github.com/FoamValue/path-finder)
 
 ### 🦕 认知小图鉴（studyHall）— Java 开源认知类系统
 > 面向 **3-6 岁幼儿**的自然认知图鉴网页应用，打开即看、无需登录、平板优先、零后台运维，覆盖植物 / 动物 / 昆虫 / 恐龙四大板块。
@@ -76,7 +76,7 @@
 - 质量门禁：JUnit + Testcontainers 21 用例、Vitest 67 用例、Playwright E2E 47 用例，全绿方可提交；Docker Compose 五容器一键部署
 
 **技术栈**：React 18 · Ant Design 5 · Vite / JDK 26 · Spring Boot 4.1 / MongoDB · Redis · MySQL / Node.js 内容通道 / Docker Compose
-🔗 https://gitee.com/FoamValue/studyHall
+🔗 [studyHall](https://github.com/FoamValue/studyHall)
 
 ---
 
